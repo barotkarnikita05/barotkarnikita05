@@ -2,11 +2,11 @@
 
 ## About Me
 
-🎓 M.Sc. Data Science Graduate
+ M.Sc. Data Science Graduate
 
-💼 Ex-Associate Technical & Business Operations Analyst at Amdocs
+ Ex-Associate Technical & Business Operations Analyst at Amdocs
 
-📊 Interested in:
+ Interested in:
 - Production Support
 - Telecom Billing
 - Data Analysis
